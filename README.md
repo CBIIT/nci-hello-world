@@ -1,1 +1,1 @@
-This repository is used by the NCI CBIIT Jenkins Service for demonstrations.
+This repository is used by the [NCI CBIIT Jenkins Service](https://service.cancer.gov/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DNCI-KB0011700) for demonstrations.
