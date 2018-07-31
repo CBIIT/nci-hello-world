@@ -1,1 +1,1 @@
-This repository is used for demonstrations by the NCI CBIIT Jenkins Service.
+This repository is used by the NCI CBIIT Jenkins Service for demonstrations.
